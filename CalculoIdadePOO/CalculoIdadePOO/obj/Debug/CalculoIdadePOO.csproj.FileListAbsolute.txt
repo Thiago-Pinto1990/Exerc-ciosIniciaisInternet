@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\bin\Debug\CalculoIdadePOO.exe.config
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\bin\Debug\CalculoIdadePOO.exe
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\bin\Debug\CalculoIdadePOO.pdb
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\obj\Debug\CalculoIdadePOO.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\obj\Debug\CalculoIdadePOO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\obj\Debug\CalculoIdadePOO.exe
+C:\Users\thiag\Documents\DIO\CalculoIdadePOO\CalculoIdadePOO\obj\Debug\CalculoIdadePOO.pdb

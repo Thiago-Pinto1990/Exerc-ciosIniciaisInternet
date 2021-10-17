@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\bin\Debug\Exercício Maior Idade.exe.config
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\bin\Debug\Exercício Maior Idade.exe
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\bin\Debug\Exercício Maior Idade.pdb
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\obj\Debug\Exercício Maior Idade.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\obj\Debug\Exercício Maior Idade.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\obj\Debug\Exercício Maior Idade.exe
+C:\Users\thiag\Documents\DIO\Exercício Maior Idade\Exercício Maior Idade\obj\Debug\Exercício Maior Idade.pdb

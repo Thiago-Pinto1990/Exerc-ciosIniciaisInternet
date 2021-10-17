@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\bin\Debug\Exercício Animais de Estimação.exe.config
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\bin\Debug\Exercício Animais de Estimação.exe
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\bin\Debug\Exercício Animais de Estimação.pdb
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\obj\Debug\Exercício Animais de Estimação.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\obj\Debug\Exercício Animais de Estimação.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\obj\Debug\Exercício Animais de Estimação.exe
+C:\Users\thiag\Documents\DIO\Exercício Animais de Estimação\Exercício Animais de Estimação\obj\Debug\Exercício Animais de Estimação.pdb

@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\bin\Debug\CalculoMediaPOO.exe.config
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\bin\Debug\CalculoMediaPOO.exe
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\bin\Debug\CalculoMediaPOO.pdb
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\obj\Debug\CalculoMediaPOO.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\obj\Debug\CalculoMediaPOO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\obj\Debug\CalculoMediaPOO.exe
+C:\Users\thiag\Documents\DIO\CalculoMediaPOO\CalculoMediaPOO\obj\Debug\CalculoMediaPOO.pdb
