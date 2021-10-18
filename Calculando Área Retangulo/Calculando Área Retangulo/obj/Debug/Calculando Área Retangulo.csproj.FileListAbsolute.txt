@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\bin\Debug\Calculando Área Retangulo.exe.config
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\bin\Debug\Calculando Área Retangulo.exe
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\bin\Debug\Calculando Área Retangulo.pdb
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\obj\Debug\Calculando Área Retangulo.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\obj\Debug\Calculando Área Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\obj\Debug\Calculando Área Retangulo.exe
+C:\Users\thiag\Documents\DIO\Calculando Área Retangulo\Calculando Área Retangulo\obj\Debug\Calculando Área Retangulo.pdb
